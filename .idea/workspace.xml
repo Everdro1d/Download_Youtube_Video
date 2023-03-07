@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea6277b-05d3-4368-b76b-18fecec48750" name="Changes" comment="">
+    <list default="true" id="4ea6277b-05d3-4368-b76b-18fecec48750" name="Changes" comment="v1.7 03.06.23">
+      <change afterPath="$PROJECT_DIR$/out/production/Download_Youtube_Video/dl_Vid/Main_Window$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Download_Youtube_Video/dl_Vid/Main_Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Download_Youtube_Video/dl_Vid/SyncPipe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Download_Youtube_Video/dl_Vid/dialog_Working.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download_Youtube_Video.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dl_Vid/Main_Window.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dl_Vid/SyncPipe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dl_Vid/dialog_Working.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/everd/Documents/IntelliJ/Download_Youtube_Video",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\everd\Documents\IntelliJ\Download_Youtube_Video" />
@@ -76,6 +76,14 @@
       <updated>1678147365002</updated>
       <workItem from="1678147366106" duration="2021000" />
     </task>
+    <task id="LOCAL-00001" summary="v1.7 03.06.23">
+      <created>1678150293316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678150293316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +92,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="766b2150-e7be-4cfd-9719-ba4d6bda47cf">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -94,5 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="v1.7 03.06.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.7 03.06.23" />
   </component>
 </project>
