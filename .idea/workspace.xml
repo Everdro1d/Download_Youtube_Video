@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea6277b-05d3-4368-b76b-18fecec48750" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Download_Youtube_Video.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dl_Vid/Main_Window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dl_Vid/SyncPipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dl_Vid/dialog_Working.java" afterDir="false" />
+    <list default="true" id="4ea6277b-05d3-4368-b76b-18fecec48750" name="Changes" comment="v1.7 03.06.23">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,14 +67,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678147365002</updated>
-      <workItem from="1678147366106" duration="2021000" />
+      <workItem from="1678147366106" duration="2691000" />
     </task>
+    <task id="LOCAL-00001" summary="v1.7 03.06.23">
+      <created>1678149606185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678149606185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="766b2150-e7be-4cfd-9719-ba4d6bda47cf">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="766b2150-e7be-4cfd-9719-ba4d6bda47cf" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="v1.7 03.06.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.7 03.06.23" />
   </component>
 </project>
