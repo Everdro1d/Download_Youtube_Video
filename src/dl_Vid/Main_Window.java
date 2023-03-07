@@ -6,8 +6,6 @@
  * 		 https://ffmpeg.org/
  */
 
-//TODO let yt-dlp check for updates
-
 package dl_Vid;
 
 import java.awt.Cursor;
